@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo DEBIAN_FRONTEND=noninteractive aptitude install -q -y php5-mysql
